@@ -1,6 +1,6 @@
 <package>
   <name>rosbag_migration_rule</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>
     This empty package allows to export rosbag migration rule files without depending on rosbag.
   </description>

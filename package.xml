@@ -4,7 +4,7 @@
   <description>
     This empty package allows to export rosbag migration rule files without depending on rosbag.
   </description>
-  <maintainer email="michel@ekumenlabs.com">Michel Hidalgo</maintainer>
+  <maintainer email="geoff@openrobotics.org">Geoffrey Biggs</maintainer>
   <license>BSD</license>
 
   <url>http://ros.org/wiki/rosbag_migration_rule</url>

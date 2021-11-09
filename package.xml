@@ -9,6 +9,7 @@
 
   <url>http://ros.org/wiki/rosbag_migration_rule</url>
   <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
+  <author email="michel@ekumenlabs.com">Michel Hidalgo</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 </package>
